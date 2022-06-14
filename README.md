@@ -17,8 +17,10 @@ Micro Company comprises of two services:
 
 - Frameworks: [.NET](https://dotnet.microsoft.com/en-us/).
 - Libraries: [Entity Framework](https://docs.microsoft.com/en-us/ef/).
+- Load balancers: [Ingress NGINX](https://kubernetes.github.io/ingress-nginx/).
+- Message broker: [RabbitMQ](https://www.rabbitmq.com/).
 - Database: [MySQL](https://www.mysql.com/).
-- Others: [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/).
+- Others: [gRPC](https://grpc.io/), [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/).
 
 ## Contributing
 
